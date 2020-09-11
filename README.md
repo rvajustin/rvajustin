@@ -1,6 +1,6 @@
 # Justin Jones
 
-### I'm an *avid* C-sharper and have been for over a decade.  I'll be working to post some of my work around here (both past and present).
+### I've been an *avid* C-sharper for over a decade.  I'll be working to post some of my work around here (both past and present).
 
 ---
 
