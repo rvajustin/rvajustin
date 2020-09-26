@@ -7,6 +7,6 @@
 I’m currently working on certifications with Microsoft; [track my progress](https://docs.microsoft.com/en-us/users/rvajustin/)
  - ✅ [AZ-900 Azure Fundamentals](https://www.youracclaim.com/badges/d2ce46ad-6869-4072-b722-f6b51c18249e/public_url)
  - ✅ [AZ-204 Azure Developer](https://www.youracclaim.com/badges/17b29341-36f1-4a71-b48e-abe255dcfb93/public_url)
- - ✅ AZ-104 Azure Administrator
+ - ✅ [AZ-104 Azure Administrator](https://www.youracclaim.com/earner/earned/badge/cd66f9ed-3075-4bce-8372-8027f057b4b1)
  - ⬛ AZ-400 Azure DevOps Engineer
  - ⬛ AZ-303/304 Azure Architect
